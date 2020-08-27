@@ -1,0 +1,14 @@
+{
+  "name": "helloworldwithdocker",
+  "version": "1.0.0",
+  "description": "Primeiro desafio desenvolvido para a Maratona Full Cycle 4.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eli Leite de Brito Filho",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
